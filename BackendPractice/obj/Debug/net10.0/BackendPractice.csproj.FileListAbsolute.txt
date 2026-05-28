@@ -1,0 +1,15 @@
+/workspaces/csharp-backend-practice/BackendPractice/bin/Debug/net10.0/BackendPractice
+/workspaces/csharp-backend-practice/BackendPractice/bin/Debug/net10.0/BackendPractice.deps.json
+/workspaces/csharp-backend-practice/BackendPractice/bin/Debug/net10.0/BackendPractice.runtimeconfig.json
+/workspaces/csharp-backend-practice/BackendPractice/bin/Debug/net10.0/BackendPractice.dll
+/workspaces/csharp-backend-practice/BackendPractice/bin/Debug/net10.0/BackendPractice.pdb
+/workspaces/csharp-backend-practice/BackendPractice/obj/Debug/net10.0/BackendPractice.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/csharp-backend-practice/BackendPractice/obj/Debug/net10.0/BackendPractice.AssemblyInfoInputs.cache
+/workspaces/csharp-backend-practice/BackendPractice/obj/Debug/net10.0/BackendPractice.AssemblyInfo.cs
+/workspaces/csharp-backend-practice/BackendPractice/obj/Debug/net10.0/BackendPractice.csproj.CoreCompileInputs.cache
+/workspaces/csharp-backend-practice/BackendPractice/obj/Debug/net10.0/BackendPractice.sourcelink.json
+/workspaces/csharp-backend-practice/BackendPractice/obj/Debug/net10.0/BackendPractice.dll
+/workspaces/csharp-backend-practice/BackendPractice/obj/Debug/net10.0/refint/BackendPractice.dll
+/workspaces/csharp-backend-practice/BackendPractice/obj/Debug/net10.0/BackendPractice.pdb
+/workspaces/csharp-backend-practice/BackendPractice/obj/Debug/net10.0/BackendPractice.genruntimeconfig.cache
+/workspaces/csharp-backend-practice/BackendPractice/obj/Debug/net10.0/ref/BackendPractice.dll
