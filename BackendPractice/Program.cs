@@ -7,7 +7,7 @@ public static class Program
 {
     public static async Task Main()
     {
-        Exercise05_CustomerOutstandingBalanceReport.Run();
+        Exercise06_InvoicePaymentStatus.Run();
     }
 }
 
